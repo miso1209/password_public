@@ -1,5 +1,5 @@
 ---
-title: 제목입니다.
+title: 제목입니다. **굵게** *기울임* 됩니까?
 description: 설명입니다. **굵게** *기울임* 됩니까?
 permalink: /test/
 ---
