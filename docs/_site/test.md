@@ -1,5 +1,6 @@
 ---
 title: Test # **굵게** *기울임* <- 안 됨
+permalink: /test
 description: 설명입니다. **굵게** *기울임* 됩니까? -> 안 먹힘
 ---
 ## 코드 샘플
