@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-permalink: /
+permalink: index.html
 description: it's description -> 안 먹힘
 ---
 This is password's public repository!
